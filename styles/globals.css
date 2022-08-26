@@ -2,8 +2,9 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
 }
 
 a {
@@ -13,8 +14,32 @@ a {
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x:hidden ;
+}
+.image{
+object-fit: cover;
+
+}
+.d{
+  color:#f4f3f4
+}
+.bg{
+  /* background-image: url('../public/HeroImage1.jpg'); */
+  background-color: #00022b;
+  background-size: cover;
+  height:100vh;
+  width:100vw;
+  color:#f2eee6;
 }
 
+@media screen and (max-width:600px) {
+  .image {
+    transform: scale(0.7);
+  }
+
+} 
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

@@ -1,0 +1,64 @@
+{
+    "newproducts":[
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image":"../assets/NewProducts/Bag1.jpg"
+            
+        
+        },
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image":"../assets/NewProducts/Shoe1.jpg"
+            
+        
+        },
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image":"../assets/NewProducts/Bag2.jpg"
+            
+        
+        },
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image":"../assets/NewProducts/Bag3.jpg"
+            
+            
+        
+        },
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image1":"",
+            "image":"../assets/NewProducts/Watch2.jpg"
+            
+        
+        },
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image":"../assets/NewProducts/Shoe2.jpg"           
+        
+        },
+        {
+            "id":1,
+            "name":"Rhinestone grab bag",
+            "price":"#11,500 NGN",
+            "image":"../assets/NewProducts/Shoe3.jpg",
+            "image2":""
+            
+        
+        }
+        
+
+    ]
+}
